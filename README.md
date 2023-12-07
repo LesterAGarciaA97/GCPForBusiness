@@ -1,2 +1,3 @@
 # GCPForBusiness
-Google Cloud Platform (GCP) for business - Working repository
+## Google Cloud Platform (GCP) for business - Learning repository
+### Courses, learning paths, live sessions content and more...
